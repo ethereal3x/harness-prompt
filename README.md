@@ -1,1 +1,1 @@
-# cursor-prompt
+# harness-prompt
